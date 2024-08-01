@@ -1,4 +1,4 @@
-# Techincal Deep Dive: How Tiplink Works
+# Technical Deep Dive: How Tiplink Works
 
 ## Table of Contents
 - [Introduction](#introduction)
