@@ -368,4 +368,8 @@ Tiplink represents a significant step forward in the world of cryptocurrency by 
 3. [Cryptocurrency Wallet Integration](https://www.coindesk.com/learn/bitcoin-wallets)
 4. [Email Security Best Practices](https://www.cisco.com/c/en/us/products/security/email-security/index.html)
 5. [Public-Key Cryptography Explained](https://www.cloudflare.com/learning/ssl/what-is-public-key-cryptography/)
-```
+
+
+##
+
+### ~ Emmanuel Forster
